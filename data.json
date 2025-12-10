@@ -1,0 +1,24 @@
+{
+	"engine": {
+		"temp": 88,
+		"economy": 12,
+		"oil_temp": 71,
+		"running_time": 25601,
+		"battery_voltage": 12.6,
+		"error_history": [
+			{
+				"timestamp": 1765297445.6503332,
+				"code": 303
+			},
+			{
+				"timestamp": 1765297524.4663956,
+				"code": 576
+			}
+		]
+	},
+	"chassis": {
+		"serial_number": 1238201,
+		"error_history": null,
+		"under_warranty": true
+	}
+}
